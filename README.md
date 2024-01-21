@@ -6,7 +6,7 @@ BERTopic is a topic modeling technique that leverages HuggingFace transformers a
 
 ## Source
 
-- This project is based on the following paper: <https://arxiv.org/abs/1906.04216>
+- This project is based on the following paper: <https://arxiv.org/abs/2203.05794>
 - Repository: <https://maartengr.github.io/BERTopic/index.html>
 
 ## Installation
