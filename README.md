@@ -1,4 +1,4 @@
-# BERTopicModelling
+# BERTopicModelling [![License: MIT][License-Badge]](LICENSE.md)
 
 ## Introduction
 
