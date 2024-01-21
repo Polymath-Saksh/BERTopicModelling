@@ -42,3 +42,5 @@ HuggingFace Transformers is developed and maintained by HuggingFace team and the
 This project is licensed under the MIT License. For details, refer to the [LICENSE](LICENSE) file.
 
 Copyright (c) 2023 [Saksham Kumar](https://github.com/polymath_saksh) and the respective owners.
+
+[License-Badge]:        https://img.shields.io/badge/License-MIT-blue.svg
