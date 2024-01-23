@@ -33,8 +33,6 @@ We welcome contributions! For bug fixes, issues or suggestions.If you find a bug
 
 ## License
 
-This project is licensed under the terms of the MIT license. For details, refer to the [LICENSE](LICENSE) file.
-
 BERTopic is developed and maintained by [Maarten Grootendorst](https://github.com/MaartenGr/MaartenGr)
 
 HuggingFace Transformers is developed and maintained by HuggingFace team and the community.
